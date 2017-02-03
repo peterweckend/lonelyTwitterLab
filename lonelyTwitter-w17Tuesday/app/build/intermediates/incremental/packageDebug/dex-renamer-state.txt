@@ -1,4 +1,4 @@
-#Thu Jan 26 19:00:37 MST 2017
-base.0=/Users/PeterWeckend/Documents/Files/2016-2017/CMPUT301/lonelyTwitter-w17Tuesday/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+#Thu Jan 26 19:08:39 MST 2017
+base.0=/Users/PeterWeckend/Documents/Files/2016-2017/CMPUT301/lab/lonelyTwitterLab/lonelyTwitter-w17Tuesday/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
 renamed.0=classes.dex
-file.0=/Users/PeterWeckend/Documents/Files/2016-2017/CMPUT301/lonelyTwitter-w17Tuesday/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+file.0=/Users/PeterWeckend/Documents/Files/2016-2017/CMPUT301/lab/lonelyTwitterLab/lonelyTwitter-w17Tuesday/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

@@ -1,5 +1,13 @@
 [
     {
+        "merged": "/Users/PeterWeckend/Documents/Files/2016-2017/CMPUT301/lab/lonelyTwitterLab/lonelyTwitter-w17Tuesday/app/build/intermediates/res/merged/debug/layout/list_item.xml",
+        "source": "/Users/PeterWeckend/Documents/Files/2016-2017/CMPUT301/lab/lonelyTwitterLab/lonelyTwitter-w17Tuesday/app/src/main/res/layout/list_item.xml"
+    },
+    {
+        "merged": "/Users/PeterWeckend/Documents/Files/2016-2017/CMPUT301/lab/lonelyTwitterLab/lonelyTwitter-w17Tuesday/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/PeterWeckend/Documents/Files/2016-2017/CMPUT301/lab/lonelyTwitterLab/lonelyTwitter-w17Tuesday/app/src/main/res/layout/main.xml"
+    },
+    {
         "merged": "/Users/PeterWeckend/Documents/Files/2016-2017/CMPUT301/lonelyTwitter-w17Tuesday/app/build/intermediates/res/merged/debug/layout/list_item.xml",
         "source": "/Users/PeterWeckend/Documents/Files/2016-2017/CMPUT301/lonelyTwitter-w17Tuesday/app/src/main/res/layout/list_item.xml"
     },

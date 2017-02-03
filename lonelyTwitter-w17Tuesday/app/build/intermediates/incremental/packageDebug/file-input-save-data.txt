@@ -1,21 +1,21 @@
 #Internal package file, do not edit.
-#Thu Jan 26 19:00:37 MST 2017
-2.base=/Users/PeterWeckend/Documents/Files/2016-2017/CMPUT301/lonelyTwitter-w17Tuesday/app/build/intermediates/res/resources-debug.ap_
-5.file=/Users/PeterWeckend/Documents/Files/2016-2017/CMPUT301/lonelyTwitter-w17Tuesday/app/build/intermediates/res/resources-debug.ap_/res/layout/main.xml
+#Thu Jan 26 19:08:40 MST 2017
+2.base=/Users/PeterWeckend/Documents/Files/2016-2017/CMPUT301/lab/lonelyTwitterLab/lonelyTwitter-w17Tuesday/app/build/intermediates/res/resources-debug.ap_
+5.file=/Users/PeterWeckend/Documents/Files/2016-2017/CMPUT301/lab/lonelyTwitterLab/lonelyTwitter-w17Tuesday/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
 5.set=ANDROID_RESOURCE
-3.base=/Users/PeterWeckend/Documents/Files/2016-2017/CMPUT301/lonelyTwitter-w17Tuesday/app/build/intermediates/res/resources-debug.ap_
+3.base=/Users/PeterWeckend/Documents/Files/2016-2017/CMPUT301/lab/lonelyTwitterLab/lonelyTwitter-w17Tuesday/app/build/intermediates/res/resources-debug.ap_
 2.set=ANDROID_RESOURCE
-4.base=/Users/PeterWeckend/Documents/Files/2016-2017/CMPUT301/lonelyTwitter-w17Tuesday/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+4.base=/Users/PeterWeckend/Documents/Files/2016-2017/CMPUT301/lab/lonelyTwitterLab/lonelyTwitter-w17Tuesday/app/build/intermediates/res/resources-debug.ap_
 count=6
-0.file=/Users/PeterWeckend/Documents/Files/2016-2017/CMPUT301/lonelyTwitter-w17Tuesday/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
-5.base=/Users/PeterWeckend/Documents/Files/2016-2017/CMPUT301/lonelyTwitter-w17Tuesday/app/build/intermediates/res/resources-debug.ap_
-4.set=DEX
-1.file=/Users/PeterWeckend/Documents/Files/2016-2017/CMPUT301/lonelyTwitter-w17Tuesday/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+0.file=/Users/PeterWeckend/Documents/Files/2016-2017/CMPUT301/lab/lonelyTwitterLab/lonelyTwitter-w17Tuesday/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+5.base=/Users/PeterWeckend/Documents/Files/2016-2017/CMPUT301/lab/lonelyTwitterLab/lonelyTwitter-w17Tuesday/app/build/intermediates/res/resources-debug.ap_
+4.set=ANDROID_RESOURCE
+1.file=/Users/PeterWeckend/Documents/Files/2016-2017/CMPUT301/lab/lonelyTwitterLab/lonelyTwitter-w17Tuesday/app/build/intermediates/res/resources-debug.ap_/resources.arsc
 1.set=ANDROID_RESOURCE
-2.file=/Users/PeterWeckend/Documents/Files/2016-2017/CMPUT301/lonelyTwitter-w17Tuesday/app/build/intermediates/res/resources-debug.ap_/res/layout/list_item.xml
-0.base=/Users/PeterWeckend/Documents/Files/2016-2017/CMPUT301/lonelyTwitter-w17Tuesday/app/build/intermediates/res/resources-debug.ap_
-3.file=/Users/PeterWeckend/Documents/Files/2016-2017/CMPUT301/lonelyTwitter-w17Tuesday/app/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/ic_launcher.png
+2.file=/Users/PeterWeckend/Documents/Files/2016-2017/CMPUT301/lab/lonelyTwitterLab/lonelyTwitter-w17Tuesday/app/build/intermediates/res/resources-debug.ap_/res/layout/list_item.xml
+0.base=/Users/PeterWeckend/Documents/Files/2016-2017/CMPUT301/lab/lonelyTwitterLab/lonelyTwitter-w17Tuesday/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+3.file=/Users/PeterWeckend/Documents/Files/2016-2017/CMPUT301/lab/lonelyTwitterLab/lonelyTwitter-w17Tuesday/app/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/ic_launcher.png
 3.set=ANDROID_RESOURCE
-1.base=/Users/PeterWeckend/Documents/Files/2016-2017/CMPUT301/lonelyTwitter-w17Tuesday/app/build/intermediates/res/resources-debug.ap_
-4.file=/Users/PeterWeckend/Documents/Files/2016-2017/CMPUT301/lonelyTwitter-w17Tuesday/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
-0.set=ANDROID_RESOURCE
+1.base=/Users/PeterWeckend/Documents/Files/2016-2017/CMPUT301/lab/lonelyTwitterLab/lonelyTwitter-w17Tuesday/app/build/intermediates/res/resources-debug.ap_
+4.file=/Users/PeterWeckend/Documents/Files/2016-2017/CMPUT301/lab/lonelyTwitterLab/lonelyTwitter-w17Tuesday/app/build/intermediates/res/resources-debug.ap_/res/layout/main.xml
+0.set=DEX
